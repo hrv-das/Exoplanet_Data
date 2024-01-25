@@ -15,3 +15,5 @@ vs Planet mass
      b. ($M_p$, Fe/H) , where $M_p$ is the planet mass (in Jupiter mass Units) and Fe/H is the metallicity of the 
          parent star.  
      c. ($R_p$, $M_p$), where $R_p$ is planet radius and $M_p$ is the planet mass
+
+   **NOTE:** The 'exoplanet.tab' data file contains a lot of redundant data and empty cells which we had to deal with strategically while doing the analysis
