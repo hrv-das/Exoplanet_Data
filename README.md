@@ -12,6 +12,6 @@ vs Planet mass
 3. For stars with 3500 ≤ $T_{eff}$ ≤ 6500, we have computed the Spearman r correlation coefficient for the following data pairs:  
      a. ($T_{eff}$, log g), where $T_{eff}$ is the effective temperature of exoplanets hosting stars and log g is the surface 
          gravity.  
-     b. ($M_p$, Fe/H] , where $M_p$ is the planet mass (in Jupiter mass Units) and Fe/H is the metallicity of the 
+     b. ($M_p$, Fe/H) , where $M_p$ is the planet mass (in Jupiter mass Units) and Fe/H is the metallicity of the 
          parent star.  
      c. ($R_p$, $M_p$), where $R_p$ is planet radius and $M_p$ is the planet mass
